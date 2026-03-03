@@ -1,0 +1,45 @@
+Part 2: Multi-Source RAG with Routing - Results
+================================================================================
+
+Question 1: What was the total revenue for Electronics category in December 2024?
+------------------------------------------------------------
+The total revenue for the Electronics category in December 2024 was $142,864.31.
+
+================================================================================
+
+Question 2: Which region had the highest sales volume?
+------------------------------------------------------------
+The Central region had the highest sales volume, with 6779 units sold.
+
+================================================================================
+
+Question 3: What are the key features of the Wireless Bluetooth Headphones?
+------------------------------------------------------------
+The key features of the Wireless Bluetooth Headphones (ELEC001) are: 
+1. Active Noise Cancellation (ANC) with transparency mode, 
+2. Bluetooth 5.2 for stable connectivity up to 30ft range, 
+3. 40-hour battery life with quick charge (10 min = 3 hours playback), 
+4. Premium memory foam ear cushions for all-day comfort, 
+5. Foldable design with carrying case included, and 
+6. Built-in microphone for calls and voice assistant.
+
+================================================================================
+
+Question 4: What do customers say about the Air Fryer's ease of cleaning?
+------------------------------------------------------------
+According to the customer reviews in the HOME003_product_page.txt file, customers praise the Air Fryer's ease of cleaning. Review 1 by Patricia W. states, "Easy to clean," and Review 3 by Lisa G. mentions, "cleanup is a breeze." Additionally, Review 5 by Maria S. does not mention any issues with cleaning. These positive comments suggest that customers find the Air Fryer easy to clean.
+
+================================================================================
+
+Question 5: Which product has the best customer reviews and how well is it selling?
+------------------------------------------------------------
+The product with the best customer reviews is the Python Programming Guide (BOOK001) with an average review rating of 4.9. It has sold a total of 984 units and generated a total revenue of $42,453.40.
+
+================================================================================
+
+Question 6: I want a product for fitness that is highly rated and sells well in the West region. What do you recommend?
+------------------------------------------------------------
+Based on the sales data, I recommend the 'Smart Watch Pro' for fitness, with a total revenue of $24,198.79 in the West region. Additionally, 'Running Shoes Men' is another top-selling product with a total revenue of $27,086.99, indicating high demand for fitness-related products in the region.
+
+================================================================================
+
